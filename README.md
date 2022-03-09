@@ -16,4 +16,5 @@ So that the page acts the way the client expects it to.
 
 ## Deployment
 
-Click on the link: file:///Users/alfredoj.figueroa/Desktop/HW-1-Code-Refactor/index.html#search-engine-optimization
+Click [here](https://ajfigueroa83.github.io/HW-1-Code-Refactor/) to view the webpage.
+
